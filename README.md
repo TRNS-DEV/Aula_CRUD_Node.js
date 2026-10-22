@@ -1,2 +1,2 @@
 # Nodejs
-Aulas e aplicações em Nodejs  (autroria
+Aulas e aplicações em Nodejs  (autroria thallson)
